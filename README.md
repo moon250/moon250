@@ -1,16 +1,34 @@
-### Hi there 👋
+<h2 align="center">👋 Hi, I'm moon250 (he/him) !</h2>
 
-<!--
-**moon250/moon250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.youtube.com/@moon250_">
+    <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&color=be2528">
+  </a>
+  <a href="https://www.instagram.com/moon250">
+    <img src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white&color=bf1a9c">
+  </a>
+  <a href="https://www.discord.com/users/491985338785464350">
+    <img src="https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=discord&logoColor=white&color=5865F2">
+  </a>
+  <a href="https://open.spotify.com/user/esh7ovqr9xbwhto1ryxoh6hi0?si=49a3264e9eaa4699">
+    <img src="https://img.shields.io/badge/-Spotify-brightgreen?style=for-the-badge&logo=spotify&logoColor=white">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+- 🌙 I’m currently working on [Monody](https://github.com/monody-game)
+- 💻 Full stack web development enjoyer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <center>
+    <table>
+      <tr>
+        <td align="center" style="width: 50%;">
+          <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=moon250&count_private=true&show_icons=true&theme=transparent&hide_border=true"></a>
+        </td>
+        <td align="center" style="width: 50%;">
+          <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moon250&theme=transparent&layout=compact&hide_border=tru&count_private=true"></a>
+        </td>
+      </tr>
+    </table>
+  </center>
+</p>
