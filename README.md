@@ -17,6 +17,7 @@
 
 - 🌙 I’m currently working on [Monody](https://github.com/monody-game)
 - 💻 Full stack web development enjoyer
+- 📖 In highschool
 
 <p align="center">
   <center>
