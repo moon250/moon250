@@ -15,9 +15,9 @@
   </a>
 </p>
 
-- 🌙 I’m currently working on [Monody](https://github.com/monody-game)
+- 🇫🇷 French highschool student
 - 💻 Full stack web development enjoyer
-- 📖 In highschool
+- 🌙 I’m currently working on [Monody](https://github.com/monody-game)
 
 <p align="center">
   <center>
