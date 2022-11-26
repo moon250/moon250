@@ -4,7 +4,7 @@
   <a href="https://www.youtube.com/@moon250_">
     <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&color=be2528">
   </a>
-  <a href="https://www.instagram.com/moon250">
+  <a href="https://www.instagram.com/moon250_">
     <img src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white&color=bf1a9c">
   </a>
   <a href="https://www.discord.com/users/491985338785464350">
