@@ -27,7 +27,7 @@
           <img src="https://github-readme-stats.vercel.app/api?username=moon250&count_private=true&show_icons=true&theme=transparent&hide_border=true">
         </td>
         <td align="center" style="width: 50%;">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moon250&theme=transparent&layout=compact&hide_border=tru&count_private=true">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moon250&theme=transparent&layout=compact&hide_border=true&count_private=true">
         </td>
       </tr>
     </table>
