@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm moon250 (he/him) !</h2>
+<h2 align="center">👋 Hi, I'm moon250 !</h2>
 
 <p align="center">
   <a href="https://www.youtube.com/@moon250_">
@@ -17,7 +17,7 @@
 
 - 🇫🇷 French highschool student
 - 💻 Full stack web development enjoyer
-- 🌙 I’m currently working on [Monody](https://github.com/monody-game)
+- 🌙 I made [Monody](https://github.com/monody-game) [(Trailer)](https://www.youtube.com/watch?v=rPvcxJ4RwT4)
 
 <p align="center">
   <center>
