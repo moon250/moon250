@@ -15,7 +15,7 @@
   </a>
 </p>
 
-- 🇫🇷 French highschool student
+- 🇫🇷 French engineering student
 - 💻 Full stack web development enjoyer
 - 🌙 I made [Monody](https://github.com/monody-game) [(Trailer)](https://www.youtube.com/watch?v=rPvcxJ4RwT4)
 
